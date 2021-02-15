@@ -1,0 +1,11 @@
+{
+    "students": [
+        {
+            "id": 0,
+            "firstName": "Benoit",
+            "lastName": "Peutevynck",
+            "birthYear": 2000,
+            "class": "LP-DIM-app"
+        }
+    ]
+}
